@@ -3,7 +3,7 @@ export const posts = [
         id: 1,
         username: "araujo_gabr",
         avatar: 'https://media.licdn.com/dms/image/v2/D4D03AQFq9VUDa8S_tQ/profile-displayphoto-scale_200_200/B4DZ3LDTSCHsAY-/0/1777228138182?e=2147483647&v=beta&t=1oCSMJjnH4mT0rAjfnpMvhfOwaIvfcplzBa385RguOU',
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhCi5T6Y1S2BBqDTcmQhZgWXvS9n8wf3ybIlB6b30DJbd4Y86nJhiQ4g&s=10',
+        image: 'https://lh3.googleusercontent.com/a-/ALV-UjW4iNgrWUN48VQ4miilY3YBG38Frs0VT8JmVM4n9NfY775s2NVA=s40-c',
         likes: 125,
         description: 'Aprendendo React Native 🚀',
     },
