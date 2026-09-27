@@ -27,7 +27,7 @@ export default function FeedScreen() {
         </ScrollView>
       </ScrollView>
 
-      {/* Post */}
+      {/* Posts */}
     </View>
   );
 }
